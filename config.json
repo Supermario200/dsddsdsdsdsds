@@ -1,7 +1,7 @@
 {
-  "token": "BotTokenHere", 
-  "prefix": "PrefixHere",
+  "token": "MTAzNzA0NTEzOTMxMjQ5NjY5Mw.G5vrKs.JU0QWp21Og_xObVFY9UcSK2UsBn6eHbKxX2T4g", 
+  "prefix": "+",
   "everyoneMention": false,
-  "copyright": "GiveawayBot™ v3 By ZeroSync",
+  "copyright": "Giveaway bot",
   "hostedBy": true
 }
